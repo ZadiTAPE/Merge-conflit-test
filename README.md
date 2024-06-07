@@ -1,3 +1,4 @@
+REMOTE
 # Merge-conflit-test
 Commandes GIT de base
 Git config
